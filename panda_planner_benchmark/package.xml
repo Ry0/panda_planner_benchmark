@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>panda_planner_benchmark</name>
+  <version>0.1.0</version>
+  <description>The panda_planner_benchmark package</description>
+
+  <maintainer email="k104037r@mail.kyutech.jp">Ryo Kabutan</maintainer>
+
+  <license>BSD</license>
+
+  <url type="repository">https://github.com/Ry0/panda_planner_benchmark</url>
+
+  <author email="k104037r@mail.kyutech.jp">Ryo Kabutan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  
+  <export>
+    <metapackage/>
+  </export>
+
+</package>

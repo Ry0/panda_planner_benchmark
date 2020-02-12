@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>panda_moveit_benchmarks</name>
+  <version>0.1.0</version>
+  <description>The panda_moveit_benchmarks package</description>
+
+  <maintainer email="k104037r@mail.kyutech.jp">Ryo Kabutan</maintainer>
+  <license>BSD</license>
+  <url type="repository">https://github.com/Ry0/panda_planner_benchmark</url>
+
+  <author email="k104037r@mail.kyutech.jp">Ryo Kabutan</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>roslaunch</depend>
+  <exec_depend>panda_moveit_config</exec_depend>
+  <exec_depend>moveit_ros_benchmarks</exec_depend>
+</package>
